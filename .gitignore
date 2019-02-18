@@ -1,5 +1,0 @@
-#ignore the node_modules directory
-.vscode
-bin
-obj
-*.db
