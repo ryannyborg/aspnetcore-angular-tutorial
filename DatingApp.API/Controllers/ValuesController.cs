@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace DatingApp.API.Controllers
 {
-    // http://localhost:5000/api/
+    //POST http://localhost:5000/api/values/5
     [Route("api/[controller]")]
     [ApiController]
     public class ValuesController : ControllerBase
